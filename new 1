@@ -1,0 +1,42 @@
+<select class="form-dropdown" style="width:160px" id="input_26" name="q26_session">
+
+            <option value="">  </option>
+
+            <option value="Calender / Jan 2013"> Calender / Jan 2013 </option>
+
+            <option selected="selected" value="Academic / June 2013"> Academic / June 2013 </option>
+
+             <option value="Calender / Jan 2014"> Calender / Jan 2014 </option>
+
+            <option selected="selected" value="Academic / June 2014"> Academic / June 2014 </option>
+
+<option value="Calender / Jan 2015"> Calender / Jan 2015 </option>
+
+            <option selected="selected" value="Academic / June 2015"> Academic / June 2015 </option>
+<option value="Calender / Jan 2016"> Calender / Jan 2016 </option>
+
+            <option selected="selected" value="Academic / June 2016"> Academic / June 2016 </option>
+<option value="Calender / Jan 2017"> Calender / Jan 2017 </option>
+
+            <option selected="selected" value="Academic / June 2017"> Academic / June 2017 </option>
+
+<option value="Calender / Jan 2018"> Calender / Jan 2018 </option>
+
+            <option selected="selected" value="Academic / June 2018"> Academic / June 2018 </option>
+<option value="Calender / Jan 2019"> Calender / Jan 2019 </option>
+
+            <option selected="selected" value="Academic / June 2019"> Academic / June 2019 </option>
+<option value="Calender / Jan 2020"> Calender / Jan 2020 </option>
+
+            <option selected="selected" value="Academic / June 2020"> Academic / June 2020 </option>
+
+
+
+
+
+
+
+
+
+
+          </select>

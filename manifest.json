@@ -1,0 +1,32 @@
+{
+    "name": "Cookie Hunter",
+    "description": "View, edit, delete and search for cookies",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+        "activeTab",
+        "cookies",
+        "storage",
+		"history",
+        "*://*/*"
+    ],
+    "options_ui": {
+        "page": "cookie-manager.html",
+        "open_in_tab": true
+    },
+    "background": {
+        "persistent": false,
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "48": "icons/111.png",
+        "96": "icons/96.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "48": "icons/111.png",
+            "96": "icons/96.png"
+        },
+        "default_title": "Open Cookie Hunter"
+    }
+}
